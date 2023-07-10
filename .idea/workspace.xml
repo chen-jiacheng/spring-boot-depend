@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b35e62cf-111d-4d54-a806-f3d93ae6da4c" name="Changes" comment="">
+    <list default="true" id="b35e62cf-111d-4d54-a806-f3d93ae6da4c" name="Changes" comment="# add unittest code">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/chenjiacheng/springboot/SpringBootDependApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chenjiacheng/springboot/SpringBootDependApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chenjiacheng/springboot/SpringBootDependApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -49,8 +52,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/chenjiacheng/Jetbrains/IdeaProjects/spring-boot-depend/src/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,8 +67,17 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.chenjiacheng.springboot" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,8 +111,17 @@
       <workItem from="1688949971392" duration="462000" />
       <workItem from="1688950525611" duration="38000" />
       <workItem from="1688950565374" duration="26000" />
-      <workItem from="1688950593995" duration="1056000" />
+      <workItem from="1688950593995" duration="1413000" />
     </task>
+    <task id="LOCAL-00001" summary="# add project description">
+      <option name="closed" value="true" />
+      <created>1688951724098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688951724098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +137,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="# add project description" />
+    <MESSAGE value="# add unittest code" />
+    <option name="LAST_COMMIT_MESSAGE" value="# add unittest code" />
   </component>
 </project>
